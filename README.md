@@ -16,7 +16,7 @@ Flutter,Provider
 
 -Server:
 
-Firebase,NodeJs,MongoDB
+Firebase, NodeJs, MongoDB, Jitsi
 
 
 ## Installation
