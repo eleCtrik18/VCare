@@ -9,7 +9,11 @@ A new Flutter project.
 - Upload and Manage lab Reports
 - EVERYTHING REAL TIME
 - Sign Out
-
+## Installation
+-Frontend:
+Flutter,Provider
+-Server:
+Firebase,NodeJs,MongoDB
 ## Installation
 After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
