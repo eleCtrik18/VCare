@@ -20,7 +20,7 @@ Firebase, NodeJs, MongoDB, Jitsi
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```VCare``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
